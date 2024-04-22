@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @MuxixA
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 📫 How to reach me ...
-- 😄 Languages: Chinese(native), English(spoken), Janpanse(written), Korean(written), France(alphabet)
+- 👀 I’m interested in many things both of software & hardware.
+- 🌱 I’m currently learning something new like CTF.
+- 📫 How to reach me? You can mail to *i@muxix.top*
+- 😄 Languages: Chinese(native), English(spoken), Janpanse(written), Korean(written), French(alphabet)
 - ⚡ Skills:
-  - Lang: PHP / JS / Java / C# / C++
+  - Lang: PHP / JS / Java / C# / C++ / Python
   - Framework: Thinkphp / Vue3
   - OS: Windows / Linux
 - 🖥️ IDE&Editor: IDEA / Visual Studio / VS Code
